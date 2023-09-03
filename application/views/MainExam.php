@@ -37,6 +37,7 @@
             //         $("#messageTimeout").hide(200);
             //     },4000);
             // });
+            
         </script>
         <!-- <?php if ($this->session->flashdata('text')): ?>
             <div class="alert alert-<?= $this->session->flashdata('type'); ?>" style="border-radius:0px" id="messageTimeout">
